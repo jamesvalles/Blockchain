@@ -1,0 +1,122 @@
+*** This is the BlockChain Log for PROCESS 0. ***
+
+
+PROCESS ZERO is running. *** 
+Starting Key Server input thread using: 4710
+
+
+Enter C (Credit), R (Read File), V (Verify Blocks), or L (List Blocks to BlockchainLedgerSample.xml)
+R
+BlockInput0.txt read in successfully.  <<READING IN DATA FROM FILE
+
+Enter C (Credit), R (Read File), V (Verify Blocks), or L (List Blocks to BlockchainLedgerSample.xml)
+V
+
+*** UNVERFIED BLOCK ***
+
+<< ONE BLOCK RECORD IN XML CREATED FROM RECORD OBJECT FROM FILE 
+<blockRecord>
+<ABlockID>35d096d1-ff03-4a7d-b1d9-05749f8c8b95</ABlockID>
+<ACreatingProcess>Process 0</ACreatingProcess>
+<ASHA256String>SHA string n'a </ASHA256String>
+<ASignedSHA256>Signed SHA n/a.</ASignedSHA256>
+<AVerificationProcessID>To be set later...</AVerificationProcessID>
+<FFname>John</FFname>
+<FLname>Smith</FLname>
+<FSSNum>123-45-6789</FSSNum>
+<GDiag>Chickenpox</GDiag>
+<GRx>aspirin</GRx>
+<GTreat>BedRest</GTreat>
+</blockRecord>
+
+
+<< WORK BEGINS HERE 
+56921 is not less than 20,000 so we did not solve the puzzle
+
+20755 is not less than 20,000 so we did not solve the puzzle
+
+55516 is not less than 20,000 so we did not solve the puzzle
+
+52026 is not less than 20,000 so we did not solve the puzzle
+
+6225 IS less than 20,000.
+*** BLOCK VERIFIED *** << BLOCK VERIFIED
+
+
+<<MOVING ONTO THE NEXT UNVERIFIED BLOCK
+
+*** UNVERFIED BLOCK ***
+
+<blockRecord>
+<ABlockID>90814932-7620-4536-8825-4ea77b859a1f</ABlockID>
+<ACreatingProcess>Process 0</ACreatingProcess>
+<ASHA256String>SHA string n'a </ASHA256String>
+<ASignedSHA256>Signed SHA n/a.</ASignedSHA256>
+<AVerificationProcessID>To be set later...</AVerificationProcessID>
+<FFname>Joe</FFname>
+<FLname>Blow</FLname>
+<FSSNum>123-45-6888</FSSNum>
+<GDiag>Smallpox</GDiag>
+<GRx>Whiskey</GRx>
+<GTreat>BedRest</GTreat>
+</blockRecord>
+
+42756 is not less than 20,000 so we did not solve the puzzle
+
+15301 IS less than 20,000.
+*** BLOCK VERIFIED ***
+
+
+*** UNVERFIED BLOCK ***
+
+<blockRecord>
+<ABlockID>1b86f1a9-83ec-4eb1-a4d7-79eb0aa3eba6</ABlockID>
+*** <ACreatingProcess>Process 0</ACreatingProcess>
+<ASHA256String>SHA string n'a </ASHA256String>
+<ASignedSHA256>Signed SHA n/a.</ASignedSHA256>
+<AVerificationProcessID>To be set later...</AVerificationProcessID>
+<FFname>Julie</FFname>
+<FLname>Wilson</FLname>
+<FSSNum>123-45-6999</FSSNum>
+<GDiag>Insomnia</GDiag>
+<GRx>HotPeppers</GRx>
+<GTreat>Exercise</GTreat>
+</blockRecord>
+
+6418 IS less than 20,000.
+*** BLOCK VERIFIED ***
+
+
+*** UNVERFIED BLOCK ***
+
+<blockRecord>
+<ABlockID>7c946c6f-e29e-43b5-a5af-c0e19f2ddb0d</ABlockID>
+<ACreatingProcess>Process 0</ACreatingProcess>
+<ASHA256String>SHA string n'a </ASHA256String>
+<ASignedSHA256>Signed SHA n/a.</ASignedSHA256>
+<AVerificationProcessID>To be set later...</AVerificationProcessID>
+<FFname>Wayne</FFname>
+<FLname>Blaine</FLname>
+<FSSNum>123-45-6777</FSSNum>
+<GDiag>Measles</GDiag>
+<GRx>CodLiverOil</GRx>
+<GTreat>WaitToGetBetter</GTreat>
+</blockRecord>
+
+64808 is not less than 20,000 so we did not solve the puzzle
+
+39914 is not less than 20,000 so we did not solve the puzzle
+
+61927 is not less than 20,000 so we did not solve the puzzle
+
+64499 is not less than 20,000 so we did not solve the puzzle
+
+64728 is not less than 20,000 so we did not solve the puzzle
+
+5177 IS less than 20,000.
+*** BLOCK VERIFIED ***
+
+<< ALL BLOCKS VERIFIED THE END, RETURN TO USER PROMPT
+
+
+Enter C (Credit), R (Read File), V (Verify Blocks), or L (List Blocks to BlockchainLedgerSample.xml)

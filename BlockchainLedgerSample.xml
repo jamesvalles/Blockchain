@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BlockLedger>
+<blockRecord>
+    <ABlockID>53940319-99f7-450d-ba3a-b7774d41d17f</ABlockID>
+    <ACreatingProcess>Process 0</ACreatingProcess>
+    <ASHA256String>SHA string n'a </ASHA256String>
+    <ASignedSHA256>Signed SHA n/a.</ASignedSHA256>
+    <AVerificationProcessID>To be set later...</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>0c5779b0-8ac6-42b6-b56e-d8fa59d4a9a4</ABlockID>
+    <ACreatingProcess>Process 0</ACreatingProcess>
+    <ASHA256String>SHA string n'a </ASHA256String>
+    <ASignedSHA256>Signed SHA n/a.</ASignedSHA256>
+    <AVerificationProcessID>To be set later...</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>bb433e23-f22e-4730-a7c5-f9e5d6c22644</ABlockID>
+    <ACreatingProcess>Process 0</ACreatingProcess>
+    <ASHA256String>SHA string n'a </ASHA256String>
+    <ASignedSHA256>Signed SHA n/a.</ASignedSHA256>
+    <AVerificationProcessID>To be set later...</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>df0d10c0-73f9-4129-87a3-8181720ecf7d</ABlockID>
+    <ACreatingProcess>Process 0</ACreatingProcess>
+    <ASHA256String>SHA string n'a </ASHA256String>
+    <ASignedSHA256>Signed SHA n/a.</ASignedSHA256>
+    <AVerificationProcessID>To be set later...</AVerificationProcessID>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+</blockRecord>
+</BlockLedger>
